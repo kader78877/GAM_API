@@ -60,9 +60,9 @@ ad_manager:
   # delegated_account: INSERT_DOMAIN_WIDE_DELEGATION_ACCOUNT
   # The following values configure the client for the installed application
   # flow.
-  client_id:  "1062257026667-ghl91ii2vi6jciuf7f7ovk1e0cbmq5sf.apps.googleusercontent.com"
-  client_secret: "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"
-  refresh_token:  "1//04CtY3qP5qb7tCgYIARAAGAQSNwF-L9Iric1C-VamBAkESlpJGFPZ7NVshhq5Oe-MQE91RqAh74SiI7gg6Qw4-_s1Z8jZwKmUkaU"
+  client_id:  "X"
+  client_secret: "X"
+  refresh_token:  "X"
 
 
 # Common configurations:
